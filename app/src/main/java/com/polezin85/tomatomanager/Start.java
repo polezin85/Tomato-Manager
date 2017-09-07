@@ -59,10 +59,10 @@ public class Start extends AppCompatActivity {
          * Init views
          */
         titleText = (TextView) findViewById(R.id.textViewTitle);
-        pomodoro.setTitle(titleText, TEXT_TITLE_WORK);
+        titleText.setText(TEXT_TITLE_WORK);
 
         mainTimer = (TextView) findViewById(R.id.textViewMainTimer);
-        pomodoro.setTimer(mainTimer, START_WORK_TIME);
+        mainTimer.setText(START_WORK_TIME);
 
         startTimerBtn = (Button) findViewById(R.id.button);
 
