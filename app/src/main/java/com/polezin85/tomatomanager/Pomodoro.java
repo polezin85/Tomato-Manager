@@ -40,14 +40,5 @@ public class Pomodoro {
 
     }
 
-    public void setTitle(TextView textView, String title){
-        textView.setText(title);
-    }
-
-    public void setTimer(TextView textView, String time){
-        textView.setText(time);
-    }
-
-
 
 }
