@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="text_view_size">48sp</dimen>
+    <dimen name="title_text_size">32sp</dimen>
+    <dimen name="pomodoro_count_text_size">22sp</dimen>
+</resources>

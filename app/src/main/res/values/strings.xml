@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TomatoManager</string>
+    <string name="button_start_timer_caption">Start timer</string>
+</resources>
